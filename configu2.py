@@ -1,13 +1,13 @@
 # Telegram API credentials
-TELEGRAM_API_ID = 34506083
-TELEGRAM_API_HASH = "5676893fa1c0fe15eca5dbbceb3ab6a2"
+TELEGRAM_API_ID = +++++++
+TELEGRAM_API_HASH = "++++"
 
 # Telegram channel to monitor
 TELEGRAM_CHANNEL = "Mr_SHADY_Trading_Quotex"
 
 # Quotex credentials
-QUOTEX_EMAIL = "vizcayagilberto@gmail.com"
-QUOTEX_PASSWORD = "M@tador610"
+QUOTEX_EMAIL = "+++++"
+QUOTEX_PASSWORD = "++++++"
 
 # Trading settings
 USE_DEMO_ACCOUNT = True  # Set to False for real trading
